@@ -1,0 +1,1 @@
+web: gunicorn kruptos.kruptos.wsgi --log-file -
